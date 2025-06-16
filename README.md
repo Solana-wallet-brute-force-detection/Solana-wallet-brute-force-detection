@@ -119,3 +119,5 @@ This project is licensed under the [MIT License](/LICENSE). Feel free to use, mo
 ---
 
 **Stay Secure, Stay Informed, and Protect Your Solana Wallets from Brute-Force Attacks!**
+
+Update:  16.06.2025 05:35:11 Resource URLs
